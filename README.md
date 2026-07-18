@@ -472,7 +472,7 @@ This project was originally designed for Hadoop and Hive, but I implemented it u
 ---
 
 ## 🙋‍♂️ Author
-- **Name:** Md Farhan Anwar
+- **Name:** Husnain Khan
 - **Project:** Hadoop + Hive Banking Project (Pandas Adaptation)
-- **Date:** June 2025
+- **Date:** July 2026
 
